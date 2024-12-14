@@ -1,6 +1,6 @@
 # Corruptbox.io
 
-Discover the groundbreaking [Corruptbox](http://corruptbox.io) gaming series - where horror, music, and experimental gameplay collide!
+Discover the groundbreaking [Corruptbox](https://corruptbox.io) gaming series - where horror, music, and experimental gameplay collide!
 
 ## 🌀 About the Series
 
@@ -32,7 +32,7 @@ The latest chapter in our dark digital odyssey, **Corruptbox 3** invites players
 
 
 ## 🌐 Visit Us
-Explore more about our groundbreaking game series at [http://corruptbox.io](http://corruptbox.io)
+Explore more about our groundbreaking game series at [http://corruptbox.io](https://corruptbox.io)
 
 ## 🤝 Community
 Join our growing community of players who love pushing the boundaries of gaming and musical expression!
